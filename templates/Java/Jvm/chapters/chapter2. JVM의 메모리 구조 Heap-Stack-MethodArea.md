@@ -79,14 +79,14 @@ graph TD
     A6[get 스택프레임\nthis]
   end
   subgraph Heap
-    B1[Counter 객체\nstate=0→10→12]
+    B1[Counter 객체\nstate: 0→10→12]
   end
-  A1 -- sub(주소) --> B1
-  A2 -- this(주소) --> B1
-  A3 -- this(주소) --> B1
-  A4 -- c(주소) --> B1
-  A5 -- this(주소) --> B1
-  A6 -- this(주소) --> B1
+  A1 -- sub 주소 --> B1
+  A2 -- this 주소 --> B1
+  A3 -- this 주소 --> B1
+  A4 -- c 주소 --> B1
+  A5 -- this 주소 --> B1
+  A6 -- this 주소 --> B1
 ```
 
 ---
@@ -147,4 +147,4 @@ graph TD
 
 ---
 
-[다음 챕터: JVM의 동작 원리와 실행 과정](./chapter3. JVM의 동작 원리와 실행 과정.md)
+[다음 챕터: JVM의 동작 원리와 실행 과정](https://github.com/JadenMeister/Java_Kotlin_Document_for_beginner/blob/master/templates/Java/Jvm/chapters/chapter3.%20JVM%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC%EC%99%80%20%EC%8B%A4%ED%96%89%20%EA%B3%BC%EC%A0%95.md)
