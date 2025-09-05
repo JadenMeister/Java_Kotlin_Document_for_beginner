@@ -13,15 +13,15 @@
 ---
 
 ## 포함된 주요 내용
-- [chapter1. 자바 테스트의 기본 개념과 종류 (단위/통합/슬라이스)](./chapter1. 자바 테스트의 기본 개념과 종류 (단위_통합_슬라이스).md)
+- [chapter1. 자바 테스트의 기본 개념과 종류 (단위_통합_슬라이스).md](chapter1.%20%EC%9E%90%EB%B0%94%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%A2%85%EB%A5%98%20(%EB%8B%A8%EC%9C%84_%ED%86%B5%ED%95%A9_%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4).md)
   - 단위/통합/슬라이스 테스트의 개념, 목적, 실무 적용, Node/Express/TS와의 비교, 표준 디렉토리 구조 등
-- [chapter2. 객체지향 5원칙과 테스트 설계](./chapter2. 객체지향 5원칙과 테스트 설계.md)
+- [chapter2. 객체지향 5원칙과 테스트 설계.md](chapter2.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%205%EC%9B%90%EC%B9%99%EA%B3%BC%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%A4%EA%B3%84.md)
   - SOLID 원칙별 설명, 테스트 설계와의 관계, Mock/Stub/Spy 활용, Node/Express/TS와의 비교
-- [chapter3. JUnit 4와 5의 차이 및 주요 변경점](./chapter3. JUnit 4와 5의 차이 및 주요 변경점.md)
+- [chapter3. JUnit 4와 5의 차이 및 주요 변경점.md](chapter3.%20JUnit%204%EC%99%80%205%EC%9D%98%20%EC%B0%A8%EC%9D%B4%20%EB%B0%8F%20%EC%A3%BC%EC%9A%94%20%EB%B3%80%EA%B2%BD%EC%A0%90.md)
   - JUnit 4/5 구조, 어노테이션 변경점, 실무 적용 팁, Jest/Mocha와의 비교, 예시 코드
-- [chapter4. Spring Boot 테스트 어노테이션과 활용법](./chapter4. Spring Boot 테스트 어노테이션과 활용법.md)
+- [chapter4. Spring Boot 테스트 어노테이션과 활용법.md](chapter4.%20Spring%20Boot%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC%20%ED%99%9C%EC%9A%A9%EB%B2%95.md)
   - @Test, @Autowired, @Disabled, @SpringBootTest, @MockBean 등 주요 어노테이션 설명, 실무 예시, Node/Express/TS와의 비교
-- [chapter5. 테스트 방법론과 Assertions 메서드 설명](./chapter5. 테스트 방법론과 Assertions 메서드 설명.md)
+- [chapter5. 테스트 방법론과 Assertions 메서드 설명.md](chapter5.%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%A9%EB%B2%95%EB%A1%A0%EA%B3%BC%20Assertions%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%84%A4%EB%AA%85.md)
   - TDD, BDD(Given/When/Then), ATDD, E2E 등 방법론별 상세 설명, 실무 적용, 자바/JS/TS 생태계 관례, Assertions 메서드, 예시 코드
 
 ---
